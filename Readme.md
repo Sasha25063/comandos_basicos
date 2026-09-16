@@ -1,1 +1,3 @@
-### mi primer proyecto con git
+# mi primer proyecto con git
+## Manejo y configuracion de SW
+### Cuarto Software "A"
